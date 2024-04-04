@@ -1,0 +1,15 @@
+.NavBar {
+    position: absolute;
+    text-align: center;
+    top: 90%;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 24px;
+    font-weight: bold;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    color: white;
+}
+
+.NavBar-link {
+    margin-right: 10px;
+}
